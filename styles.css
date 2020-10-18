@@ -105,15 +105,15 @@
 
 .mercantil{
     margin-top: 10px;
-    width: 450px;
-    height: 250px;
+    width: 550px;
+    height: 300px;
 }
 
 .contenido-mercantil{
     font-family: 'Peddana', serif;
     font-size: 25px;
     margin-left: 700px;
-    margin-top: -200px;
+    margin-top: -300px;
     border: #296D98 solid;
     width: 500px;
     height: 110px;
@@ -148,19 +148,19 @@
 
 .p2{
     text-align: center;
-    margin-left: 400px;
+    margin-left: 500px;
     margin-top: 200px;
 }
 
 .as{
-    width: 500px;
-    height: 300px;
+    width: 650px;
+    height: 350px;
     margin-top: -100px;
 }
 
 .contenido-as{
     margin-left: 700px;
-    margin-top: -150px;
+    margin-top: -250px;
     border: #296D98 solid;
     width: 450px;
     height: 110px;
@@ -319,9 +319,14 @@
 }
 
 .foto-sports{
-    width: 100px;
-    height: 100px;
+    width: 250px;
+    height: 200px;
+
 }
 
+.divfoto{
+    text-align: center;
+    margin-left: 300px;
+}
 
 
