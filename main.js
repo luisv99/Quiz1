@@ -11,24 +11,24 @@ btn.onclick = alerta;
 skills = [
         
         {label: 'html',
-        data: 60},
+        data: 7},
         
         {label: 'css',
-        data: 65},
+        data: 5},
         
         {label: 'python',
-        data: 70},
+        data: 4},
         
-        {label: 'javascript',
-        data: 10}
+        {label: 'js',
+        data: 2}
 ]
 
 const skill = document.getElementById('skills')
 
-for (let index = 0; index < skills.length; index++) {
-        const element = skills[index];
-        const card = "<div>" + element.label + "</div>"
-        skill.innerHTML += card
+skills.forEach(({label, data}) => {
+        skill.innerHTML+=`<div class="barra${data}">
+        <p>${label}</p>
+        <p>${data*10}%</p>
+        </div>`
+});
 
-
-}

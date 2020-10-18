@@ -362,25 +362,34 @@
     padding-top: 15px;
 }
 
-.barra1{
+.barra5{
     background-color: #296D98;
     width: 50px;
     margin-left: 300px;
-    height: 100px;
+    height: 130px;
+    margin-top: -130px;
 }
 
 .barra2{
     background-color: red;
     width: 50px;
     margin-left: 350px;
-    height: 150px;
-    margin-top: -150px;
+    height: 50px;
+    margin-top: -50px;
 }
 
-.barra3{
+.barra7{
     background-color: green;
     width: 50px;
     margin-left: 250px;
     height: 200px;
-    margin-top: -200px;
+    margin-top: 0px;
+}
+
+.barra4{
+    background-color: purple;
+    width: 50px;
+    margin-left: 200px;
+    height: 80px;
+    margin-top: -80px;
 }
