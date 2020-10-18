@@ -40,3 +40,93 @@
 .elementnavbar:hover{
     background-color:#296D98;
 }
+
+#experience{
+    margin-left: 50px;
+}
+
+.titulo1{
+    text-align: center;
+    color: #296D98;
+    font-size: 35px;
+}
+
+.p1{
+    margin-top: 100px;
+    text-align: center;
+    margin-left: 390px;
+    font-size: 30px;
+}
+
+.mercantil{
+    margin-top: 10px;
+    width: 450px;
+    height: 250px;
+}
+
+.contenido-mercantil{
+    margin-left: 700px;
+    margin-top: -200px;
+    border: #296D98 solid;
+    width: 450px;
+    height: 110px;
+}
+
+.tecnologia1{
+    padding: 10px;
+}
+
+.fecha1{
+    padding: 10px
+}
+
+.url1{
+    padding: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+   }
+
+.experience2{
+    margin-top: 0px;
+    margin-left: 50px;
+}
+
+.p2{
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+.as{
+    width: 500px;
+    height: 300px;
+    margin-top: -100px;
+}
+
+.contenido-as{
+    margin-left: 700px;
+    margin-top: -150px;
+    border: #296D98 solid;
+    width: 450px;
+    height: 110px;
+}
+
+.tecnologia2{
+    padding: 10px;
+}
+
+.fecha2{
+    padding: 10px
+}
+
+.url2{
+    padding: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+   }
+
+.status{
+    padding: 10px;
+}
