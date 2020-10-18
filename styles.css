@@ -330,3 +330,57 @@
 }
 
 
+.title{
+    font-family: 'Peddana', serif;
+    text-align: center;
+    font-size: 80px;
+    color: #296D98;
+}
+
+.fo{
+    margin-right: 50px;
+    text-align: end;
+}
+
+.prog-foto{
+    width: 300;
+    height:200px
+}
+
+.divskills{
+    font-family: 'Peddana', serif;
+    margin-left: 200px;
+    color: #296D98;
+    font-size: 40px;
+    border: #296D98 solid;
+    width: 450px;
+    margin-top: 50px;
+}
+
+.habilidades{
+    padding-left: 19px;
+    padding-top: 15px;
+}
+
+.barra1{
+    background-color: #296D98;
+    width: 50px;
+    margin-left: 300px;
+    height: 100px;
+}
+
+.barra2{
+    background-color: red;
+    width: 50px;
+    margin-left: 350px;
+    height: 150px;
+    margin-top: -150px;
+}
+
+.barra3{
+    background-color: green;
+    width: 50px;
+    margin-left: 250px;
+    height: 200px;
+    margin-top: -200px;
+}

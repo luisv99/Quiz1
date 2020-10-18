@@ -22,9 +22,13 @@ skills = [
         {label: 'javascript',
         data: 10}
 ]
+
 const skill = document.getElementById('skills')
 
 for (let index = 0; index < skills.length; index++) {
         const element = skills[index];
-        console.log(element)
+        const card = "<div>" + element.label + "</div>"
+        skill.innerHTML += card
+
+
 }
