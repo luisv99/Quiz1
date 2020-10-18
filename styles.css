@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Peddana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+
 *{
     margin: 0%;
     padding: 0%;
@@ -45,17 +50,18 @@
     margin-left: 50px;
 }
 
-.titulo1{
+#titulo1{
     text-align: center;
     color: #296D98;
     font-size: 35px;
 }
 
 .p1{
+    font-family: 'Peddana', serif;
     margin-top: 100px;
     text-align: center;
-    margin-left: 390px;
-    font-size: 30px;
+    margin-left: 450px;
+    font-size: 50px;
 }
 
 .mercantil{
@@ -65,29 +71,38 @@
 }
 
 .contenido-mercantil{
+    font-family: 'Peddana', serif;
+    font-size: 25px;
     margin-left: 700px;
     margin-top: -200px;
     border: #296D98 solid;
-    width: 450px;
+    width: 500px;
     height: 110px;
 }
 
 .tecnologia1{
-    padding: 10px;
+    font-family: 'Peddana', serif;
+    padding-left: 10px;
 }
 
 .fecha1{
-    padding: 10px
+    font-family: 'Peddana', serif;
+    padding: 0px;
+    padding-left: 10px;
 }
 
 .url1{
-    padding: 10px;
+    font-family: 'Peddana', serif;
+    font-size: 25px;
     margin-top: 10px;
     text-decoration: none;
     color: black;
+    padding-left: 10px;
    }
 
 .experience2{
+    font-family: 'Peddana', serif;
+    font-size: 40px;
     margin-top: 0px;
     margin-left: 50px;
 }
@@ -129,4 +144,42 @@
 
 .status{
     padding: 10px;
+}
+
+.fotomia{
+    height: 350px;
+}
+
+#infoyo{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+.contenidoyo{
+    border: #296D98 solid;
+    width: 550px;
+    margin-left: 550px;
+    margin-top: -300px;
+}
+
+.dato{
+    padding: 10px;
+}
+
+.tituloyo{
+    text-align: center;
+    color: #296D98;
+    font-family: 'Peddana', serif;
+    font-size: 60px;
+}
+
+#contact-title{
+    text-align: center;
+    color: #296D98;
+    font-family: 'Peddana', serif;
+    font-size: 80px;
+}
+
+.formulario{
+
 }
