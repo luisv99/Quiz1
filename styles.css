@@ -181,5 +181,33 @@
 }
 
 .formulario{
-    margin-left: 100px;
+    text-align: center;
+    background-color: #296D98;
+    margin-left: 50px;
+    width: 600px;
+}
+
+
+.nombre{
+    width: 187px;
+}
+
+.email{
+    width: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.text-area{
+    height: 300px;
+}
+
+#btn{
+    width: 100px;
+    margin-left: 60px;
+}
+
+.span1{
+    font-family: 'Peddana', serif;
+    font-size: 23px;
 }
