@@ -186,6 +186,7 @@
 }
 
 .fotomia{
+    border: #296D98 solid;
     height: 350px;
 }
 
@@ -195,10 +196,12 @@
 }
 
 .contenidoyo{
+    font-family: 'Peddana', serif;
+    font-size: 22px;
     border: #296D98 solid;
     width: 550px;
     margin-left: 550px;
-    margin-top: -300px;
+    margin-top: -350px;
 }
 
 .dato{
@@ -221,17 +224,18 @@
 
 .formulario{
     text-align: center;
-    background-color: #296D98;
+    background-color: #e4ebee;
     margin-left: 50px;
     width: 600px;
 }
 
 
-.nombre{
+#nombre{
+    margin-top: 10px;
     width: 187px;
 }
 
-.email{
+#email{
     width: 200px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -313,6 +317,7 @@
     text-decoration: none;
     color: black;
 }
+
 
 
 
